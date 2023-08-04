@@ -1,0 +1,9 @@
+.ali_12345 {
+    justify-content: space-between;
+    align-items: center;
+}
+
+.borderLeft {
+    border-left: 2px solid black;
+    padding-left: 10px;
+}
